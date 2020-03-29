@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oviposition Preference and Larval Performance of Drosophila suzukii (Diptera: Drosophilidae), Spotted-Wing Drosophila: Effects of Fruit Identity and Composition
-author: Laure Olazcuaga, Nicolas O. Rode, Julien Foucaud, Benoit Facon, Virginie Ravigné, Aurelien Ausset, Nicolas Lemenager, Anne Loiseau, Mathieu Gautier, Arnaud Estoup, and Ruth A. Hufbauer
+author: Laure Olazcuaga, Nicolas O. Rode, Julien Foucaud, Benoit Facon, Virginie Ravign?, Aurelien Ausset, Nicolas Lemenager, Anne Loiseau, Mathieu Gautier, Arnaud Estoup, and Ruth A. Hufbauer
 ---
 
 
